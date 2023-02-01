@@ -1,8 +1,6 @@
 # DBug
 
-
 #### Please not that this is a work in progress and nothing is final, there is a lot to come!
-
 
 DBug is a free and open source Godot Engine addon, governed under the permissive MIT license.
 
@@ -13,27 +11,13 @@ DBug also features An ingame console for testing purposes as well as an ingame d
 This will be the first all-in-one tool for Godot project testing/debugging!
 
 
-## 🔭 Roadmap
-
-I plan for it to be the most powerful addon of it's type!
+## ⚠️ Contributing:
 
 
-__👍 Completed:__
-
-- [x] Basic logging
-
-
-__👀 Coming Soon:__
-
-- [ ] Advanced customizable logging
-- [ ] In game console
-- [ ] In game debug overlay
-- [ ] Auto updating
+As this is an open source project, we need to keep it clean and organized,
+These guidelines are to ensure all code is consistent...
 
 
-And much, much more coming!
-
-
-__💻Installation:__
-
-... Instructions coming soon :)
+- When unsure, follow the official GDScript Style Guide - https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/gdscript_styleguide.html
+- This plugin is for Godot 4, as such all code is written in GDScript 2.0.
+- 
