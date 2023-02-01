@@ -1,5 +1,7 @@
 # DBug
 
+### Please not that this is a work in progress and nothing is final, there is a lot to come!
+
 DBug is a free and open source Godot Engine addon, governed under the permissive MIT license.
 
 DBug is the ultimate all in one solution for debugging and testing your Godot project!
