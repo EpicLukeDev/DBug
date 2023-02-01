@@ -1,7 +1,7 @@
 # DBug
 
 
-#### Please not that this is a work in progress and nothing is final, there is a lot to come!
+### Please not that this is a work in progress and nothing is final, there is a lot to come!
 
 
 DBug is a free and open source Godot Engine addon, governed under the permissive MIT license.
